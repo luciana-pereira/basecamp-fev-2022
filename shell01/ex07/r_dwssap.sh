@@ -1,0 +1,2 @@
+#!/bin/sh
+cat /etc/passwd | grep -v '^[#]' | sed -n 2~2p | cut -d: -f1 | rev | sort -r | head -n $FT_LINE2 | tail -n $(($FT_LINE2-$FT_LINE1+1)) | paste -s -d "," | sed 's/,/, /g' | sed 's/$/./' | tr -d "\n"

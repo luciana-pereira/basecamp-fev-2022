@@ -23,7 +23,7 @@ Projeto	Exercícios	Score
 * [x] C04	[6 exercises]	[60%]
 * [x] C05	[9 exercises]	[50%]
 * [x] C06	[4 exercises]	[70%]
-* [ ] C07	[6 exercises]	[0]
+* [x] C07	[6 exercises]	[45%]
 * [ ] C08	[6 exercises]	[0]
 * [ ] C09	[3 exercises]	[0]
 * [ ] C10	[4 exercises]	[0]

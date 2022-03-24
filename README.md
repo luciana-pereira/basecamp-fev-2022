@@ -1,9 +1,6 @@
 # _BASECAMP 42SP_
 
-<div align="center" style="display: inline_block">
-  <img src="https://badge42.herokuapp.com/api/stats/lucperei?cursus=Basecamp"/>  
-</div>
-
+  [![lucperei's 42 stats](https://badge42.vercel.app/api/v2/stats/cl155llci000609lcgznhbohw?cursusId=60)](https://github.com/JaeSeoKim/badge42) 
 
 Olá, seja bem vindo!
 
